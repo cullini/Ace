@@ -16,6 +16,7 @@ MAP
     IMAGEPATH '/var/www/html/tmp/'
     IMAGEURL '/tmp/'
     METADATA
+      "ows_enable_request" "*"
       "wms_title" "WMS Map"
       "wms_onlineresource" "https://g5201.brushhome.org/cgi-bin/mapserv?"
       "wms_srs"  "EPSG:4326 EPSG:900913 EPSG:3857"
